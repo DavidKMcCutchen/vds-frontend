@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60">
+  <path d="M20 10 L40 10 L30 30 L50 30 L20 50 L30 30 L10 30 Z" fill="#3498db"/>
+  <text x="60" y="35" font-family="Arial" font-weight="bold" font-size="24" fill="#333">VERSA</text>
+  <text x="60" y="50" font-family="Arial" font-size="12" fill="#666">DIGITAL SOLUTIONS</text>
+</svg>
